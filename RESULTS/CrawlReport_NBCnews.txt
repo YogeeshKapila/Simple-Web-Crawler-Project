@@ -1,0 +1,47 @@
+NAME:    	    YOGEESH KAPILA
+USC ID:  	    4858-6760-90
+NEWS SITE CRAWLED:  nbcnews.com
+
+Fetch Statistics
+====================
+
+#  Fetches attempted:   19987
+#  Fetches succeeded:   19195
+#  Fetches failed   :   522
+#  Fetches aborted  :   270
+
+
+Outgoing URLS:
+====================
+
+Total URLs extracted: 783770
+ # unique URLs extracted        :  207298
+ # unique URLs within News site :  148283
+ # unique URLs outside News site:   59015
+
+Status Codes:
+====================
+
+200 OK               : 19195	
+301 Moved Permanently: 196
+302 Moved Temporarily: 74
+404 Not Found        : 518
+502 Bad Gateway      : 4
+
+File Sizes:
+====================
+
+<1KB          : 1
+>1MB 	      : 43     
+1KB ~ <10KB   : 2
+100KB ~ <1MB  : 8395         
+10KB ~ <100KB : 10748
+
+Content Types:
+====================
+
+text/html : 19184
+image/png : 1
+image/gif : 3
+image/vnd.microsoft.icon : 1
+
